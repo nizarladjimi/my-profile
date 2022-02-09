@@ -1,0 +1,68 @@
+img {
+	width:300px ;
+	height:300px ;
+	border-radius: 200px;
+	margin:auto ; 
+}
+body { 
+	background-image: url(images/1545.jpg);
+}
+a {	
+	color: white;
+	font-family: Jazz LET, fantasy;
+}
+
+h1 {
+text-align: center;
+font-family: Jazz LET, fantasy;
+font-size: 70px;
+font-weight: 400;
+border:5px ridge white ;
+width: fit-content;
+margin: 25px auto;
+
+}
+
+
+body {
+	color: whitesmoke;
+	font-family: arial ;
+}
+h6 {text-align: right;}
+
+
+.bio{
+	text-align: right;
+}
+
+.professionnelles a {
+	color:whitesmoke;
+}
+
+.header {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	color:khaki;
+}
+
+p { font-family: Jazz LET, fantasy }
+
+.linkedin {
+	width: 60px;
+	height: 60px;
+}
+.CV{
+	width: 60px;
+	height: 60px;
+}
+.facebook {
+	width: 60px;
+	height: 60px;
+}
+.instagram {
+	width: 70px;
+	height: 60px;
+}
+
+
